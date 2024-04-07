@@ -4,7 +4,7 @@ The Crush Proposal Website is a fun and interactive web application that allows 
 
 ## Preview
 
-You can preview the Crush Proposal Website [here]((https://iloveyoumycrsh.netlify.app/)).
+You can preview the Crush Proposal Website [here](https://iloveyoumycrsh.netlify.app/).
 
 ## Features
 
